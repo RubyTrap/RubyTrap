@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubytrap&" alt="rubytrap" /></p>
+
 <h1 align="center">Hi 👋, I'm Ruby,</h1>
 <h3 align="center">an intermediate developer from New Mexico</h3>
 
@@ -20,7 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubytrap&show_icons=true&locale=en&layout=compact" alt="rubytrap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubytrap&show_icons=true&locale=en" alt="rubytrap" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubytrap&" alt="rubytrap" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubytrap" alt="rubytrap" /></a> </p>
