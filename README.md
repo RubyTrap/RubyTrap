@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [placeholder portfolio](placeholder)
 
-- 📫 How to reach me **rubymedlock.dev@gmail.com**
+- 📫 Contact me at **rubymedlock.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
