@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👨‍💻 All of my projects are available at [placeholder](placeholder)
+- 👨‍💻 All of my projects are available at [placeholder portfolio](placeholder)
 
 - 📫 How to reach me **rubymedlock.dev@gmail.com**
 
