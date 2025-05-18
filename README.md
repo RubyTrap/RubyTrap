@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruby,</h1>
-<h3 align="center">an intermediate developer from New Mexico</h3>
+<h3 align="center">I'm an intermediate developer from New Mexico</h3>
 
 - 🔭 I’m currently working on my [C# Calculator](https://github.com/RubyTrap/PracticeProjects/tree/main/C%23/Calculator)
 
