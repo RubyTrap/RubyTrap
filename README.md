@@ -1,6 +1,4 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rubytrap&" alt="rubytrap" /></p>
-
-<h1 align="center">Hi 👋, I'm Ruby,</h1>
+h1 align="center">Hi 👋, I'm Ruby,</h1>
 <h3 align="center">an intermediate developer from New Mexico</h3>
 
 - 🔭 I’m currently working on [C# Calculator](https://github.com/RubyTrap/PracticeProjects/tree/main/C%23/Calculator)
